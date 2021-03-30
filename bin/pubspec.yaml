@@ -1,0 +1,5 @@
+name: example
+description: A Dart command line application
+
+environment:
+  sdk: '>=2.4.0'
